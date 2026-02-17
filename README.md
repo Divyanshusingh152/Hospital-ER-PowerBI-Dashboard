@@ -76,5 +76,11 @@ Business requirement document
 Data terminology document
 
 📌 Conclusion
+## Dashboard Preview
+
+![Monthly View](Images/Monthly_View.png)
+![Consolidated View](Images/Consolidated_View.png)
+![Patient Details](Images/Patient_Details.png)
+![Key Takeaways](Images/Key_Takeaways.png)
 
 This project demonstrates strong skills in healthcare data analysis, KPI development, dashboard storytelling, and Power BI reporting.
