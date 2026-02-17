@@ -1,5 +1,9 @@
 # Hospital-ER-PowerBI-Dashboard
 End-to-End Hospital Emergency Room Performance Dashboard using Power BI
+<img width="1205" height="736" alt="Monthly_View png" src="https://github.com/user-attachments/assets/66ec9d64-7698-4c9e-9b7e-bd31a4c3c83a" />
+<img width="1208" height="728" alt="Consolidated_View png" src="https://github.com/user-attachments/assets/edbede45-6672-4d5f-b805-82ff984842cd" />
+<img width="1205" height="733" alt="Patient_Details png" src="https://github.com/user-attachments/assets/40035fdc-fd75-442a-a6bb-860786e05974" />
+<img width="1202" height="733" alt="Key_Takeaways png" src="https://github.com/user-attachments/assets/42fc69b4-7fd8-49cc-ab05-7b0427ea4eb7" />
 
 🏥 Hospital Emergency Room Dashboard – Power BI
 📌 Project Overview
